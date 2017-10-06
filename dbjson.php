@@ -1,10 +1,10 @@
  <?
 
    /*connect to DB*/
-    $servername = "uvds365.active24.cz";
-    $database = "previewaczmartin";
-    $username = "previewaczmartin";
-    $password = "4cu4BsDASC";
+    $servername = "hostname";
+    $database = "database";
+    $username = "username";
+    $password = "password";
     
   // Create connection
 
